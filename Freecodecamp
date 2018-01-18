@@ -1,0 +1,45 @@
+<!-->This will be an ongoing improvement as I continue to learn more -->
+
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  .font {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: blue;
+    border-width: 5px;
+    border-style: dotted;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+
+<h2 class="red-text">Brian Hansen's Profile</h2>
+
+<img class="smaller-image thick-green-border" src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqhAAAAJGM2MDk4ODZiLTIwMGQtNDk5ZS04ZjM0LWIzZmUyNDJmMWRmOQ.jpg" alt="Brian Hansen">
+  
+<ul>
+<button><a class="font" herf='https://github.com/settings/profile'>Brian's Github</a></button>Check out some of my projects! 
+
+
+<button><a class="font" herf='https://www.linkedin.com/in/brianphansen/'>Brian's Linkedin</a></button>Connect woth me on Linkedin!
+
+
+<button><a class="font" herf='https://www.facebook.com/bphansen8'>Brian's Facebook</a></button>Friend me on Facebook!
+</ul>
+
+
+
